@@ -1,0 +1,17 @@
+C:\Users\Bsm\Documents\Visual Studio 2010\Projects\Arduino Speech\Arduino Speech\bin\Release\Arduino Speech.exe
+C:\Users\Bsm\Documents\Visual Studio 2010\Projects\Arduino Speech\Arduino Speech\bin\Release\Arduino Speech.pdb
+C:\Users\Bsm\Documents\Visual Studio 2010\Projects\Arduino Speech\Arduino Speech\bin\Release\Arduino Speech.xml
+C:\Users\Bsm\Documents\Visual Studio 2010\Projects\Arduino Speech\Arduino Speech\obj\x86\Release\Arduino_Speech.Form1.resources
+C:\Users\Bsm\Documents\Visual Studio 2010\Projects\Arduino Speech\Arduino Speech\obj\x86\Release\Arduino_Speech.Resources.resources
+C:\Users\Bsm\Documents\Visual Studio 2010\Projects\Arduino Speech\Arduino Speech\obj\x86\Release\Arduino Speech.vbproj.GenerateResource.Cache
+C:\Users\Bsm\Documents\Visual Studio 2010\Projects\Arduino Speech\Arduino Speech\obj\x86\Release\Arduino Speech.exe
+C:\Users\Bsm\Documents\Visual Studio 2010\Projects\Arduino Speech\Arduino Speech\obj\x86\Release\Arduino Speech.xml
+C:\Users\Bsm\Documents\Visual Studio 2010\Projects\Arduino Speech\Arduino Speech\obj\x86\Release\Arduino Speech.pdb
+C:\Users\Bsm\documents\visual studio 2010\Projects\Arduino Speech\Arduino Speech\bin\Release\Rer\ardunio.mp4
+C:\Users\Bsm\documents\visual studio 2010\Projects\Arduino Speech\Arduino Speech\bin\Release\Arduino Speech.exe.config
+C:\Users\Bsm\documents\visual studio 2010\Projects\Arduino Speech\Arduino Speech\bin\Release\Interop.WMPLib.dll
+C:\Users\Bsm\documents\visual studio 2010\Projects\Arduino Speech\Arduino Speech\bin\Release\AxInterop.WMPLib.dll
+C:\Users\Bsm\documents\visual studio 2010\Projects\Arduino Speech\Arduino Speech\obj\x86\Release\Interop.WMPLib.dll
+C:\Users\Bsm\documents\visual studio 2010\Projects\Arduino Speech\Arduino Speech\obj\x86\Release\AxInterop.WMPLib.dll
+C:\Users\Bsm\documents\visual studio 2010\Projects\Arduino Speech\Arduino Speech\obj\x86\Release\Arduino Speech.vbproj.ResolveComReference.cache
+C:\Users\Bsm\documents\visual studio 2010\Projects\Arduino Speech\Arduino Speech\obj\x86\Release\Arduino_Speech.Form2.resources

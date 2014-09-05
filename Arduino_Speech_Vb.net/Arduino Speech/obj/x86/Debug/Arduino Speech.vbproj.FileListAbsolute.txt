@@ -1,0 +1,34 @@
+C:\Users\Bsm\AppData\Local\Temporary Projects\Arduino Speech\bin\Debug\Arduino Speech.exe
+C:\Users\Bsm\AppData\Local\Temporary Projects\Arduino Speech\bin\Debug\Arduino Speech.pdb
+C:\Users\Bsm\AppData\Local\Temporary Projects\Arduino Speech\bin\Debug\Arduino Speech.xml
+C:\Users\Bsm\AppData\Local\Temporary Projects\Arduino Speech\obj\x86\Debug\Arduino_Speech.Form1.resources
+C:\Users\Bsm\AppData\Local\Temporary Projects\Arduino Speech\obj\x86\Debug\Arduino_Speech.Resources.resources
+C:\Users\Bsm\AppData\Local\Temporary Projects\Arduino Speech\obj\x86\Debug\Arduino Speech.vbproj.GenerateResource.Cache
+C:\Users\Bsm\AppData\Local\Temporary Projects\Arduino Speech\obj\x86\Debug\Arduino Speech.exe
+C:\Users\Bsm\AppData\Local\Temporary Projects\Arduino Speech\obj\x86\Debug\Arduino Speech.xml
+C:\Users\Bsm\AppData\Local\Temporary Projects\Arduino Speech\obj\x86\Debug\Arduino Speech.pdb
+C:\Users\Bsm\documents\visual studio 2010\Projects\Arduino Speech\Arduino Speech\obj\x86\Debug\Arduino Speech.exe
+C:\Users\Bsm\documents\visual studio 2010\Projects\Arduino Speech\Arduino Speech\obj\x86\Debug\Arduino Speech.xml
+C:\Users\Bsm\documents\visual studio 2010\Projects\Arduino Speech\Arduino Speech\obj\x86\Debug\Arduino Speech.pdb
+C:\Users\Bsm\documents\visual studio 2010\Projects\Arduino Speech\Arduino Speech\bin\Debug\Arduino Speech.exe
+C:\Users\Bsm\documents\visual studio 2010\Projects\Arduino Speech\Arduino Speech\bin\Debug\Arduino Speech.pdb
+C:\Users\Bsm\documents\visual studio 2010\Projects\Arduino Speech\Arduino Speech\bin\Debug\Arduino Speech.xml
+C:\Users\Bsm\documents\visual studio 2010\Projects\Arduino Speech\Arduino Speech\obj\x86\Debug\Arduino_Speech.Form1.resources
+C:\Users\Bsm\documents\visual studio 2010\Projects\Arduino Speech\Arduino Speech\obj\x86\Debug\Arduino_Speech.Resources.resources
+C:\Users\Bsm\documents\visual studio 2010\Projects\Arduino Speech\Arduino Speech\obj\x86\Debug\Arduino Speech.vbproj.GenerateResource.Cache
+C:\Users\Bsm\documents\visual studio 2010\Projects\Arduino Speech\Arduino Speech\bin\Debug\Interop.WMPLib.dll
+C:\Users\Bsm\documents\visual studio 2010\Projects\Arduino Speech\Arduino Speech\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Bsm\documents\visual studio 2010\Projects\Arduino Speech\Arduino Speech\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Bsm\documents\visual studio 2010\Projects\Arduino Speech\Arduino Speech\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Bsm\documents\visual studio 2010\Projects\Arduino Speech\Arduino Speech\obj\x86\Debug\Arduino Speech.vbproj.ResolveComReference.cache
+C:\Users\Bsm\documents\visual studio 2010\Projects\Arduino Speech\Arduino Speech\obj\x86\Debug\Arduino_Speech.Form2.resources
+C:\Users\Bsm\documents\visual studio 2010\Projects\Arduino Speech\Arduino Speech\bin\Debug\Rer\ardunio.mp4
+C:\Users\Bsm\documents\visual studio 2010\Projects\Arduino Speech\Arduino Speech\bin\Debug\Arduino Speech.exe.config
+C:\Users\Bsm\documents\visual studio 2010\Projects\Arduino Speech\Arduino Speech\obj\x86\Debug\Arduino Speech.vbprojResolveAssemblyReference.cache
+C:\Users\Bsm\Desktop\Arduino speech Source\Arduino Speech_vb.net\Arduino Speech\bin\Debug\Arduino Speech.exe.config
+C:\Users\Bsm\Desktop\Arduino speech Source\Arduino Speech_vb.net\Arduino Speech\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Bsm\Desktop\Arduino speech Source\Arduino Speech_vb.net\Arduino Speech\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Bsm\Desktop\Arduino speech Source\Arduino Speech_vb.net\Arduino Speech\obj\x86\Debug\Arduino Speech.vbproj.ResolveComReference.cache
+C:\Users\Bsm\Desktop\Arduino speech Source\Arduino Speech_vb.net\Arduino Speech\obj\x86\Debug\Arduino Speech.exe
+C:\Users\Bsm\Desktop\Arduino speech Source\Arduino Speech_vb.net\Arduino Speech\obj\x86\Debug\Arduino Speech.xml
+C:\Users\Bsm\Desktop\Arduino speech Source\Arduino Speech_vb.net\Arduino Speech\obj\x86\Debug\Arduino Speech.pdb

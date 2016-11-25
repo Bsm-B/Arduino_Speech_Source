@@ -1,7 +1,7 @@
 ///////////////////////////////
 //    Bessem Bousselmi       //
-// bassouma2100@gmail.com    //
-//     www.bassouma.eu       //
+// bsmbousselmi@gmail.com    //
+//                           //
 // Creative Commons CC-BY-NC //
 ///////////////////////////////
 int ledpin = 13;
